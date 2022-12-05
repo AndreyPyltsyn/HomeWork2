@@ -18,7 +18,7 @@ if (number > 0)
 else
 {
     number = number * -1;
-if (number > 100)
+    if (number > 100)
     {
         while (number > 1000)
         {
